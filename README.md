@@ -4,4 +4,4 @@
 
 📫 Personal Blog: [lfzxb.top](https://www.lfzxb.top) 
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
