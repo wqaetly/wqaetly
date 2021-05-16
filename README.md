@@ -5,3 +5,5 @@
 📫 Personal Blog: [lfzxb.top](https://www.lfzxb.top) 
 
 ![](https://github-readme-stats.vercel.app/api?username=wqaetly&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wqaetly&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
