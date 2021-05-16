@@ -6,4 +6,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=wqaetly&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wqaetly&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wqaetly&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
